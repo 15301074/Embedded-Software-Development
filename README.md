@@ -1,7 +1,6 @@
 # Embedded-Software-Development
 Embedded Software Development Homework
 
-基于树莓派的个人博客服务器运行截图
 
 1.Apche服务器配置
 
